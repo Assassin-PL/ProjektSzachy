@@ -18,7 +18,7 @@ Ten projekt to gra w szachy napisana w Pythonie z graficznym interfejsem użytko
 ## Instalacja
 1. Sklonuj repozytorium:
     ```sh
-    git clone https://github.com/your-username/chess-game.git
+    git https://github.com/Assassin-PL/ProjektSzachy.git
     ```
 2. Przejdź do katalogu projektu:
     ```sh
