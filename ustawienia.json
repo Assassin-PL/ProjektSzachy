@@ -1,0 +1,7 @@
+{
+    "isAI": true,
+    "IPadress": "localhost",
+    "gamePort": 8889,
+    "Inkrement": false,
+    "is_Blitz": false
+}

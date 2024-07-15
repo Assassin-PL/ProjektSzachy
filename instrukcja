@@ -1,0 +1,15 @@
+Na wno dzisiaj ruchy komputera:
+2 punkty: jakikolwiek ruszanie komputera, ale niech chociaż bije jak ma możliwość
+3 (czyli za 5): minimax Alpha–beta pruning algorytm przynajmniej depth 2
+
+
+zadanie 1.
+1. komunikacja po tcp ip dzialajace ( komunikacja po sieci)
+2. zakladanie serwera
+3. sterwoanie pionow na podstawie lancuchow tekstowych
+zadanie 2.
+
+1. jesli przesle bledny ruch , to przejdzie przez weryfikacje ruchu lacznie z warunkiem zakonczenia gry
+2. serwer filtruje komunikacje
+3. weryfikacja ruchow po stronie serwera
+4. wprowadzenie funkconalnosci messengera, zeby bylo cos oprocz ruchow

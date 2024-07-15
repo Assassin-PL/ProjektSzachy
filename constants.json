@@ -1,0 +1,25 @@
+{
+  "GRID_SIZE": 8,
+  "SQUARE_SIZE": 100,
+  "BOARD_OFFSET_X": 100,
+  "BOARD_OFFSET_Y": 100,
+  "PIECE_SIZE": 65,
+  "ENLARGED_SIZE": 75,
+  "TIME_LEFT": 5400,
+  "BLITZ_TIME": 300,
+  "BONUS_TIME": 30,
+  "MAX_TIME": 60,
+  "BKING_POS": [0, 4],
+  "BQUEEN_POS": [0, 3],
+  "BROOK_POS": [0, 0],
+  "BKNIGHT_POS": [0, 1],
+  "BBISHOP_POS": [0, 2],
+  "BPAWN_POS": [1, 0],
+  "WKING_POS": [7, 4],
+  "WQUEEN_POS": [7, 3],
+  "WROOK_POS": [7, 0],
+  "WKNIGHT_POS": [7, 1],
+  "WBISHOP_POS": [7, 2],
+  "WPAWN_POS": [6, 0]
+}
+

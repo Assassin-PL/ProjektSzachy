@@ -1,0 +1,128 @@
+[
+    {
+        "turn": 0,
+        "piece_type": "pawn",
+        "color": "white",
+        "position": [
+            "e",
+            "4"
+        ]
+    },
+    {
+        "turn": 1,
+        "piece_type": "knight",
+        "color": "black",
+        "position": [
+            "c",
+            "6"
+        ]
+    },
+    {
+        "turn": 1,
+        "piece_type": "knight",
+        "color": "white",
+        "position": [
+            "c",
+            "3"
+        ]
+    },
+    {
+        "turn": 2,
+        "piece_type": "rook",
+        "color": "black",
+        "position": [
+            "b",
+            "8"
+        ]
+    },
+    {
+        "turn": 2,
+        "piece_type": "knight",
+        "color": "white",
+        "position": [
+            "b",
+            "5"
+        ]
+    },
+    {
+        "turn": 3,
+        "piece_type": "pawn",
+        "color": "black",
+        "position": [
+            "d",
+            "6"
+        ]
+    },
+    {
+        "turn": 3,
+        "piece_type": "pawn",
+        "color": "white",
+        "position": [
+            "e",
+            "5"
+        ]
+    },
+    {
+        "turn": 4,
+        "piece_type": "rook",
+        "color": "black",
+        "position": [
+            "a",
+            "8"
+        ]
+    },
+    {
+        "turn": 4,
+        "piece_type": "pawn",
+        "color": "white",
+        "position": [
+            "d",
+            "6"
+        ]
+    },
+    {
+        "turn": 5,
+        "piece_type": "rook",
+        "color": "black",
+        "position": [
+            "b",
+            "8"
+        ]
+    },
+    {
+        "turn": 5,
+        "piece_type": "pawn",
+        "color": "white",
+        "position": [
+            "e",
+            "7"
+        ]
+    },
+    {
+        "turn": 6,
+        "piece_type": "rook",
+        "color": "black",
+        "position": [
+            "a",
+            "8"
+        ]
+    },
+    {
+        "turn": 6,
+        "piece_type": "pawn",
+        "color": "white",
+        "position": [
+            "e",
+            "8"
+        ]
+    },
+    {
+        "turn": 7,
+        "piece_type": "rook",
+        "color": "black",
+        "position": [
+            "b",
+            "8"
+        ]
+    }
+]

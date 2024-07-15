@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+	<piece turn="0">
+		<piece_type>pawn</piece_type>
+		<color>white</color>
+		<position>('e', '4')</position>
+	</piece>
+	<piece turn="1">
+		<piece_type>knight</piece_type>
+		<color>black</color>
+		<position>('c', '6')</position>
+	</piece>
+	<piece turn="1">
+		<piece_type>knight</piece_type>
+		<color>white</color>
+		<position>('c', '3')</position>
+	</piece>
+	<piece turn="2">
+		<piece_type>rook</piece_type>
+		<color>black</color>
+		<position>('b', '8')</position>
+	</piece>
+	<piece turn="2">
+		<piece_type>knight</piece_type>
+		<color>white</color>
+		<position>('b', '5')</position>
+	</piece>
+	<piece turn="3">
+		<piece_type>pawn</piece_type>
+		<color>black</color>
+		<position>('d', '6')</position>
+	</piece>
+	<piece turn="3">
+		<piece_type>pawn</piece_type>
+		<color>white</color>
+		<position>('e', '5')</position>
+	</piece>
+	<piece turn="4">
+		<piece_type>rook</piece_type>
+		<color>black</color>
+		<position>('a', '8')</position>
+	</piece>
+	<piece turn="4">
+		<piece_type>pawn</piece_type>
+		<color>white</color>
+		<position>('d', '6')</position>
+	</piece>
+	<piece turn="5">
+		<piece_type>rook</piece_type>
+		<color>black</color>
+		<position>('b', '8')</position>
+	</piece>
+	<piece turn="5">
+		<piece_type>pawn</piece_type>
+		<color>white</color>
+		<position>('e', '7')</position>
+	</piece>
+	<piece turn="6">
+		<piece_type>rook</piece_type>
+		<color>black</color>
+		<position>('a', '8')</position>
+	</piece>
+	<piece turn="6">
+		<piece_type>pawn</piece_type>
+		<color>white</color>
+		<position>('e', '8')</position>
+	</piece>
+	<piece turn="7">
+		<piece_type>rook</piece_type>
+		<color>black</color>
+		<position>('b', '8')</position>
+	</piece>
+</history>
